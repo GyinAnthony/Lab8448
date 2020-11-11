@@ -1,0 +1,25 @@
+p
+{
+    color : red;
+    font-family: arial;
+    font-size: 22pt;
+}
+
+h1:hover
+{
+    color: red;
+    background-color: yellow
+}
+
+.yellow
+{
+    color: orange;
+    background-color: yellow
+}
+
+body
+{
+ background-image: url(pic3.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
